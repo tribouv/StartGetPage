@@ -1,1 +1,1 @@
-&copy; 20015 Vincent TRIBOUILLOIS <a href="https://github.com/tribouv">GIT</a> || <a href="http://vincent-tribouillois.com" alt="">website</a>
+&copy; 2015 Vincent TRIBOUILLOIS <a href="https://github.com/tribouv">GIT</a> || <a href="http://vincent-tribouillois.com" alt="">website</a>
